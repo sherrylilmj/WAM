@@ -113,26 +113,31 @@ class WAM(object):
                 entity_pos_2 = tf.expand_dims(entity_loc_2,-1)
                 entity_pos_1 = tf.tile(entity_pos_1,[self.n_hidden*2])
                 entity_pos_2 = tf.tile(entity_pos_2,[self.n_hidden*2])
-                print("entity_pos_1"+str(entity_pos_1.shape))
+                #print("entity_pos_1"+str(entity_pos_1.shape))
                 entity1=tf.concat([output_word,tf.cast(tf.subtract(entity_pos_1,entity_pos_2),dtype = tf.float32)], axis = 0)
-                print("entity_1"+str(entity1.shape))
-                print("entity_pos_2"+str(entity_pos_2.shape))
+                #print("entity_1"+str(entity1.shape))
+                #print("entity_pos_2"+str(entity_pos_2.shape))
                 entity2=tf.concat([output_word,tf.cast(tf.subtract(entity_pos_2,entity_pos_1),dtype = tf.float32)], axis = 0)
-                print("entity_2"+str(entity2.shape))
+                #print("entity_2"+str(entity2.shape))
                 flag1=0
                 flag2=0
-                print(entity2.shape)
+                #print(entity2.shape)
                 for index in range(0,self.max_sentence_len):
                     output_word=output_iter.read(index)
-                    if((index+1)==tf.to_int32(entity_loc_1)):
-                        flag1=1
-                        entity1=tf.stack([output_word,tf.cast(tf.subtract(entity_pos_1,entity_pos_2),dtype = tf.float32)], axis = 0)
-                    elif((index+1)==tf.to_int32(entity_loc_2)):
-                        flag2=1
-                        entity2=tf.stack([output_word,tf.cast(tf.subtract(entity_pos_2,entity_pos_1),dtype = tf.float32)], axis = 0)
-                    else:
-                        output_context = output_context.write(index - flag1 - flag2,tf.concat([output_word,tf.cast(tf.concat([tf.subtract(entity_pos_1,entity_pos_2)],0),dtype = tf.float32)],0))
-                        #output_context = output_context.write(index - flag1 - flag2,tf.concat([output_word,tf.cast(tf.concat([tf.subtract(index,entity_pos_1),tf.subtract(index,entity_pos_2)],0),dtype = tf.float32)],0))
+                    entity1=tf.cond(tf.equal((index),tf.to_int32(entity_loc_1)),lambda:tf.stack([output_word,tf.cast(tf.subtract(entity_pos_1,entity_pos_2),dtype = tf.float32)], axis = 0),lambda:entity1)
+                    entity2=tf.cond(tf.equal((index),tf.to_int32(entity_loc_2)),lambda:tf.stack([output_word,tf.cast(tf.subtract(entity_pos_2,entity_pos_1),dtype = tf.float32)], axis = 0),lambda:entity2)
+                    flag1=tf.cond(tf.equal((index),tf.to_int32(entity_loc_1)),lambda:1,lambda:0)
+                    flag2=tf.cond(tf.equal((index),tf.to_int32(entity_loc_2)),lambda:1,lambda:0)
+                    output_context = output_context.write(index,tf.concat([output_word,tf.cast(tf.concat([tf.subtract(entity_pos_1,entity_pos_2)],0),dtype = tf.float32)],0))
+                    #if((index+1)==tf.to_int32(entity_loc_1)):
+                    #    flag1=1
+                    #    entity1=tf.stack([output_word,tf.cast(tf.subtract(entity_pos_1,entity_pos_2),dtype = tf.float32)], axis = 0)
+                    #elif((index+1)==tf.to_int32(entity_loc_2)):
+                    #    flag2=1
+                    #    entity2=tf.stack([output_word,tf.cast(tf.subtract(entity_pos_2,entity_pos_1),dtype = tf.float32)], axis = 0)
+                    #else:
+                    #    output_context = output_context.write(index - flag1 - flag2,tf.concat([output_word,tf.cast(tf.concat([tf.subtract(entity_pos_1,entity_pos_2)],0),dtype = tf.float32)],0))
+                    #output_context = output_context.write(index - flag1 - flag2,tf.concat([output_word,tf.cast(tf.concat([tf.subtract(index,entity_pos_1),tf.subtract(index,entity_pos_2)],0),dtype = tf.float32)],0))
                 output_context = output_context.stack()
                 print("output_context "+str(output_context))
                 output_context = tf.squeeze(output_context)
@@ -145,7 +150,9 @@ class WAM(object):
                 print("context_representation"+str(context_representation.shape))
                 print("entity1"+str(entity1.shape))
                 print("entity2"+str(entity2.shape))
-                edge = tf.concat([tf.concat([entity1,entity2],axis = 0),context_representation],axis = 0)
+                entity_concat=tf.concat([entity1,entity2],axis = 0)
+                entity_concat=tf.reshape(entity_concat,[self.n_hidden*8])
+                edge = tf.concat([entity_concat,context_representation],axis = 0)
                 adj_input = adj_input.write(i,edge) 
                 return (i + 1,adj_input)
             def condition(i, adj_input):
@@ -181,9 +188,9 @@ class WAM(object):
         print(labels.shape)
         cost, cnt = 0., 0
         for sample, num in self.get_batch_data(sentences, sentence_lens, sentence_locs_1, sentence_locs_2, entity1, entity2, labels, self.batch_size, True, self.dropout):
-            _, loss, step, summary, entity_loc_1, entity_loc_2 = self.sess.run([self.optimizer, self.cost, self.global_step, self.train_summary_op, self.sentence_entity_loc_1, self.sentence_entity_loc_2], feed_dict=sample)
-            print("entity_loc_1 "+str(entity_loc_1))
-            print("entity_loc_2 "+str(entity_loc_2))
+            _, loss, step, summary= self.sess.run([self.optimizer, self.cost, self.global_step, self.train_summary_op], feed_dict=sample)
+            #print("entity_loc_1 "+str(entity_loc_1))
+            #print("entity_loc_2 "+str(entity_loc_2))
             self.train_summary_writer.add_summary(summary, step)
             cost += loss * num
             cnt += num
