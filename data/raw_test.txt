@@ -1,0 +1,1187 @@
+"@BipolarBlogger Join the high blood pressure club! Mine was 210/120 before meds. Usually 130-140/85-90 with amlodipine maleate. All the best"
+(high blood pressure,amlodipine maleate,3)
+
+"surprisingly 2 tablets of Amlodipine besylate, pills to treat high blood pressure, manage to elimine my hot flash."
+(hot flash,Amlodipine besylate,3)
+(high blood pressure,null,0)
+
+"@ kylejnorton hi Kyle, migraine all my life. discovered 2yrs ago I have high blood pressure put on Amlodipine 5mg no more migraine xx"
+(migraine,Amlodipine,3)
+(high blood pressure,Amlodipine,0)
+
+"After working for a couple of months now, it seems Benicar has failed me. My high blood pressure has been bad this whole freakin' week."
+(high blood pressure,Benicar,2)
+
+"@ Novartis although diovan was best for my high blood pressure my health insurance forced me to take generic & suffer side affects. They do not cover Diovan. @ POTUS @ foxnewspolitics"
+(high blood pressure,diovan,3)
+
+"This is my first experience of # pneumonia but 24 hours after taking # Avelox I'm feeling better....."
+(pneumonia,Avelox,3)
+
+"@ kacielorraine I think avelox is what they gave Andy when he had pneumonia in February! It was VERY pricey, but it worked."
+(pneumonia,avelox,3)
+
+"I have mycoplasma pneumonia now and the first round of azithromycin didn’t kick it going to my doctor in an hour to find out what’s next fun times."
+(mycoplasma pneumonia,azithromycin,2)
+
+"This year, I'm thankful for Azithromycin. Now I don't have Pneumonia anymore."
+(Pneumonia,Azithromycin,3)
+
+"@ JD96ROCK azithromycin - antibiotic - 6 doses in a blister pack - my crappy cold had gone to pneumonia - 36 hours was all it took to bust it"
+(cold,azithromycin,1)
+(cold,antibiotic,1)
+(pneumonia, null,0)
+
+"@ TiffanyPonce I have mono and pneumonia so the azithromycin will only help for the pneumonia. Day 3 now. Summer colds suck"
+(pneumonia,azithromycin,3)
+(mono,azithromycin,2)
+(Summer colds,null,0)
+
+"Well, well, Pneumonia. We meet again. Do you remember my old friend Azithromycin, who will be punching you in the face for the next 5 days?"
+(Pneumonia,Azithromycin,3)
+
+"Taking Bactrim for pneumonia. What a horrible drug! Never felt as nauseated in my life, even thru 4 pregnancies."
+(pneumonia,Bactrim,1)
+
+"At 60 I had double pneumonia. Biaxin 10 day treatment. Back to work in two days. I didn't hack up half the crap Hill has."
+(double pneumonia,Biaxin,3)
+
+"@Archaeolemur @ Clippo funny, DD has had biaxin 2x for pneumonia. She loved it. Cried when it was done! Doc said never seen that before : )"
+(pneumonia,biaxin,3)
+
+"@ onisha Influenza that turned into bronchial/pneumonia. Coughing sounds like an irritating barking dog & such fatigue. Cipro is helping.Slow"
+(bronchial,Cipro,3)
+(pneumonia,Cipro,3)
+(Influenza,null,0)
+
+"Oh and pneumonia still isn't dead. On cipro for a few weeks now, and having chest pain and issues breathing. This crap scares me quite bad"
+(pneumonia,cipro,2)
+
+"@ GnuWoman pneumonia for over 4 mos - when we *finally* got Cipro, we were better in days. Before that, we seriously thought we were dying."
+(pneumonia, Cipro,3)
+
+"Bad news is I basically have walking pneumonia. Good news is that I have Clarithromycin to kicks it's butt!! # getworkinmedicine # woot"
+(walking pneumonia,Clarithromycin,3)
+
+"@_ultimateniknik -thank you. I think antibiotics are working...1000mg Clarithromycin to kill off pneumonia bug!! Back still hurts though :P"
+(pneumonia,Clarithromycin,3)
+(pneumonia,antibiotics,3)
+
+"We have been there..can't say enough good things about Levaquin for pneumonia!"
+(pneumonia,Levaquin,3)
+
+"@ Beaker just getting over pneumonia after ostensibly contracting my son's 2-day cold. Feel better. Levaquin wiped out my infection."
+(pneumonia,Levaquin,3)
+(cold,null,0)
+
+"Home Health nurse reports that Dad's lungs sound almost clear! The Levaquin & Mucinex are doing their job! Goodbye, pneumonia!"
+(pneumonia,Levaquin,3)
+(pneumonia,Mucinex,3)
+
+"@ ramonasinger Try Antibiotic Levaquin. It's stronger than Zpac. I took it for OnSet of Pneumonia! Worked gr8 w/Qvar 80mcg Inhaler FeelBetta"
+(Pneumonia,Antibiotic Levaquin,3)
+(Pneumonia,Zpac,0)
+
+"So I got thru an airshift without sounding like a guy recofvering from pneumonia. Thanks, Levaquin and voice tracking!"
+(pneumonia,Levaquin,3)
+
+"@ mrsF5 @ WatchJeff I had pneumonia in my rt lung 2 yrs ago. Took levaquin, but still took me a 6 months to quit hearing the rattle n my chest"
+(pneumonia,levaquin,3)
+
+"@ XChadballX If you have an choice of antibiotic try "Levaquin". I just got over pneumonia and this cleared it up, after 10 days of coughing!"
+(pneumonia,Levaquin,3)
+(null,antibiotic,0)
+
+"Not sure what you have exactly. But when I was really sick, sudafed and mucinex was an amazing combo to kick what I had. (Something between a really bad cold and cough)"
+(cold,sudafed,3)
+(cold,mucinex,3)
+
+"Drink tons of water and load up on vitamins, eat oranges, buy the fever gel things that you put on your head and gets cold, Mucinex does wonders, wrap yourself in blankets and sweat it all out, Vicks around your nose and neck and feet I know that’s weird BUT IT WORKS"
+(cold,Mucinex,3)
+(null,vitamins,0)
+
+"Trying everything in my power to shake this cold .. mucinex slowly working but not fast enough .."
+(cold,mucinex,3)
+
+"I was being stubborn and didn't wanna take any meds for this cold. I took some mucinex and now I feel like a new man."
+(cold,mucinex,3)
+
+"I had Chinese seafood soup which helped my cold plus Mucinex."
+(cold,Mucinex,3)
+
+"a full week and i still feel like death, mucinex and cold and flu medicine are all that's keeping me going during a cold. dad says i don't need to see a doctor but i'm hoping i can convince him to bring me to the doctor tomorrow anyway"
+(cold,mucinex,2)
+
+"Got 8 hours of sleep last night and I'm dragging ass this morning. I prefer the usual 5-6 hours of sleep. Gosh darn mucinex knocked me out cold."
+(cold,mucinex,3)
+
+"I’m so happy my aunt Carmen recommended I take Mucinex DM extra strength I usually take Mucinex Fast Max Day and Night but this cold is a bit too persistent for that."
+(cold,Mucinex Fast Max Day and Night,2)
+(cold,Mucinex DM,0)
+
+"10/10 recommend @ Mucinex sinus-max. After one night, my cold was almost completely gone. never going back to nyquil"
+(cold,Mucinex sinus-max,3)
+(cold,nyquil,0)
+
+"Love that i took @ Mucinex last night only to hack up all kinds of shit from my lungs at *checks time* 5:52 am. Nothing seems to be helping this “little cold” i have"
+(cold,Mucinex,2)
+
+"@ Mucinex fast max did not help get rid of my cold or my mother’s."
+(cold,Mucinex fast max,2)
+
+"Remember I told you to ask for Mucinex D for your cold. Don't do it. It's so powerful it almost shut all my organs down. lol Worst medicine I've ever taken."
+(cold,Mucinex D,1)
+
+"Mucinex Fast Max is no joke. That magical juice is worth 100 bills. Fucking nuked my cold"
+(cold,Mucinex Fast Max,3)
+
+"Aw man, so what do you use? It really helps with the deep chest cold in pulling it out. Not much else really works for me. Mucinex and Alka Seltz"
+(chest cold,Mucinex,3)
+(chest cold,Alka Seltz,3)
+
+"Holy shit Mucinex D (with Sudafed) was like a miracle drug for my cold so far!"
+(cold,Mucinex D,3)
+(cold,Sudafed,3)
+
+"Starting of 2018 with a bit of a cold, but this @ Mucinex is really helping me get through it. Honestly a heaven sent."
+(cold,Mucinex,3)
+
+"me, sick with a cold: *takes Aleve, Tylenol, Mucinex & Flonase* *functions* husband, sick with the same cold: *takes nothing, lays in bed feeling miserable & treating everyone around him like shit*"
+(cold,Aleve,3)
+(cold,Tylenol,3)
+(cold,Mucinex,3)
+(cold,Flonase,3)
+
+"Is your dad taking good medicine like antibiotics and steroids (my personal favorite)? If he has this "cold" going around, I had it for almost 6 weeks. Mucinex and a sinus decongestant were my best friends. Took them every day."
+(cold,Mucinex,3)
+(cold,sinus decongestant,3)
+(null,antibiotics,0)
+(null,steroids,0)
+
+"I've been sick with a cold like this for five days Mike. FIVE DAYS. just take lots of Sudafed or Mucinex. It helps!"
+(cold,Mucinex,3)
+(cold,Sudafed,3)
+
+"I love mucinex. It usually knocks the cold right out. Its not a full blown cold so I thought maybe I'd try Zicam to stop it before it starts. Think I'll switch tomorrow."
+(cold,mucinex,3)
+(null,Zicam,0)
+
+"home remedies are great.. but my fave combo: Mucinex + Sudafed, rest/avoid talking, tons of tea, tons of broth... coffee in the morning.. all of that helps me to get through rough days with a nasty cold :)"
+(cold,Mucinex,3)
+(cold,Sudafed,3)
+
+"Some ppl were poppin BOTTLES last nightttt but I was poppin a mucinex and an antihistamine cuz I've been battling a slight cold the last few days but feelin a little better today with some extra sleep thanks for asking."
+(cold,mucinex,3)
+(cold,antihistamine,3)
+
+"the mucinex dual packs are gold. Clear me up enough to work and usually a cold knocks me out for weeks."
+(cold,mucinex,3)
+
+"Mucinex is really the shit . My cold went from 100% to 30% in 24 hrs."
+(cold,Mucinex,3)
+
+"I have, what my girls would say, a cold! That just won't quit. I have tried Mucinex, the Tylenol Cold and Sinus regiment...and nuthin! I'm open to suggestions that will have me ready by game night Friday..."
+(cold,Mucinex,2)
+(cold,Tylenol Cold and Sinus,2)
+
+"I had a 3 wk bout of insomnia few yrs back, herbal shit did nothing. Only thing that helped was night time cold & flu mucinex pills, but also made piss smell weird"
+(insomnia, night time cold & flu mucinex,3)
+
+"@ kateesackhoff celebrex is awesome. I use it when gout rears it's ugly head! # redwine_isworthit"
+(gout,celebrex,3)
+
+"@ unclejerry it GETS RID of the gout. Not just pain. She was on opiate pain meds which did nothing for her gout pain Celebrex is magic potion"
+(gout,Celebrex,3)
+
+"Bro, do a cleanse of 6oz hot water, teaspoon of cayenne pepper, honey, and 2oz of apple cider vinegar with a pint of water and naproxen chaser. That has helped me when I deal with gout. Also, speaking from experience, mind your sodium intake. Oy the sodium gets me everytime"
+(gout,naproxen,3)
+
+"Went to GP today. Gout attack, so on spec. 20 mins start to finish. Naproxen already kicking in! Waiting room like a cofe church on a Sunday. Empty!"
+(Gout,Naproxen,3)
+
+"Sodding gout is still painful - day five and Naproxen not really having any effect. Reiki from @ TarotOnTheHill has helped a little though."
+(gout,Naproxen,2)
+
+"@pavilionofwomen pain free for 1st time since tues! I can walk! (ta for asking) gout diagnosis looking right - & yay for Naproxen & the NHS!"
+(gout,Naproxen,3)
+
+"Prednisone works wonders but is bad for the bones. I’ve been on it for yrs with just a small dose. I need to take more when the gout flairs up. Always something I do feel better this morning"
+(gout,Prednisone,3)
+
+"Three cheers for Prednisone! I can move my shoulder without wanting to jump out of my own skin! I wish gout on no one. It SUCKS!"
+(gout,Prednisone,3)
+
+"Hey it’s none of my business, but you have gout. I take prednisone. Almost instant relief"
+(gout,prednisone,3)
+
+"Prednisone is a gift from above for gout, but God does it turn me into even more of an anxious, uptight, whiny bitch than I already am."
+(gout,Prednisone,3)
+
+"@ phoenix829 Mom was given Prednisone for her Gout & Arthritis. As she feels better, mom doesn't want aides or nurses in home. Next week mom"
+(Gout,Prednisone,3)
+(Arthritis,Prednisone,3)
+
+"Just got back from the pharmacy. My insurance company refused to pay for Albuterol (an asthma rescue drug) because they are paying for a slow acting asthma drug, Dulera. Dulera says right on it that it can't stop an asthma attack. I'm exhausted!"
+(asthma,Dulera,2)
+(asthma,Albuterol,0)
+
+"@ xolair shots work really well for me, I have pretty bad asthma too. But @ dulera and singular daily help big time. I'd really look N2 those"
+(asthma,dulera,3)
+(asthma,singular,3)
+(asthma,xolair,3)
+
+"Dulera and Symbicort are not tackling my asthma symptoms well, lately, so I need a clever way to afford the Spiriva. Theft not an option."
+(asthma,Dulera,2)
+(asthma,Symbicort,2)
+
+"New asthma med is making me shake like a dog shitting peach seeds. At least its getting better. # asthma # asthmasux # dulera"
+(asthma,dulera,3)
+
+"I’ve been on # Dulera for about a month. It is 80F+ and humid. I’m at a sweaty derby practice, and I feel FINE. This is so wonderful. # asthma"
+(asthma,Dulera,3)
+
+"On a new asthma prescription. Dulera. It's strong, like, I can feel it seconds after taking it. I think it's gonna be a good night's sleep."
+(asthma,Dulera,3)
+
+"I talk ... well complain a lot about asthma and COPD medications so this will be weird I think Dulera is the best that I know of ...."
+(asthma,Dulera,3)
+(COPD,Dulera,3)
+
+"@fucktyler u should try out advair or dulera for that gaggle ass asthma....helps me a shit load"
+(asthma,dulera,3)
+(asthma,advair,3)
+
+"Getting better, thanks 2 ventolin syrup + medrol pil, more dreams is coming “ @ deisype # asthma"
+(asthma,Medrol,3)
+(asthma,ventolin syrup,3)
+
+"Let's see, I'm up to Doycycline, Prednisone, Promethazine / Dextromethorphan, and Fluticasone Propionate and Montelukast for the asthma I already have. Rattle when I walk, wheeze when I run. Yeah, doc waiting is dumb. I was dumb."
+(asthma, Doycycline,2)
+(asthma, Prednisone,2)
+(asthma, Promethazine,2)
+(asthma, Dextromethorphan,2)
+(asthma, Fluticasone Propionate,2)
+(asthma, Montelukast,2)
+
+"I have asthma also. Feel the same about prednisone. Helps but keeps me up and makes me jittery! Hope you feel better soon."
+(asthma,prednisone,3)
+
+"thank you her asthma is getting better thankfully after some prednisone # SeasonalSolutions # sweepstakes"
+(asthma,prednisone,3)
+
+"I hate how high and off prednisone have me feeling but it makes asthma non existent"
+(asthma,prednisone,3)
+
+"My allergy cause my asthma to flare, and the prednisone calms my specific allergy response. It opens up my airways. It’s been my go-to for years"
+(allergy,prednisone,3)
+(asthma,prednisone,3)
+
+"Yeah u know that prednisone I get prescribed for my asthma really puts in work"
+(asthma,prednisone,3)
+
+"I don't rly like the side effects from the Prednisone but whatever, I can live with those better than the asthma attack w"
+(asthma,Prednisone,3)
+
+"feel better!! Ooooo girl Prednisone will def help clear those passages. They make me jittery but they work! Asthma lifer"
+(Asthma,Prednisone,3)
+
+"Oh! wow! One thing for me about Prednisone, it's awesome for the asthma & even the benadryl is too."
+(asthma,Prednisone,3)
+(asthma,benadryl,3)
+
+"Had asthma for 22 years now and hasn't been bad until last few months. I feel your pain, Greg. Prednisone is the worst."
+(asthma,Prednisone,1)
+
+"@ bisping Asthma gets worse about every 4-5 years and get 30mg prednisone for 5 days on one dose I was training Huge difference"
+(Asthma,prednisone,3)
+
+"I so hate prednisone and asthma meds. I am so exhausted, but can breathe some now at least."
+(asthma,prednisone,3)
+
+"did your doctor ever suggest prednisone? That's what I take it really helps with asthma & this heat."
+(asthma,prednisone,3)
+
+"Can I just tell u I love # prednisone I can actually breathe and function a little better today # Pleurisy # Pleuritis # Health # Asthma"
+(Asthma,prednisone,3)
+
+"Prednisone works wonders on my asthma, but not my diet. I feel like I'm eating for 5."
+(asthma,prednisone,3)
+
+"I don't think the prednisone is working, asthma still rages, and my upcoming week is so busy. Divine intervention please?"
+(asthma,prednisone,2)
+
+"Now I'm on Prednisone and Xopanex rather than ProAir, but I still awoke with an asthma attack last night. This is not okay."
+(asthma,Prednisone,2)
+(asthma,Xopanex,2)
+(astnma,ProAir,0)
+
+"30mg of Prednisone and one acupuncture season has helped. I get another one on Monday. Then I have to taper off these steroids. # asthma"
+(asthma,Prednisone,3)
+(asthma,steroids,0)
+
+"Feeling health... I can breath.. Damn you asthma # asthma... # prednisone"
+(asthma,prednisone,3)
+
+"Anyone who lives with asthma knows what a godsend prednisone is. It saved me on this vacation! I feel better already!"
+(asthma,prednisone,3)
+
+"Been on prednisone since Saturday and still can't catch my breath. Fed up of hearing "most people's asthma is better when they're pregnant""
+(asthma,prednisone,2)
+
+"@ vrika we are a mess, but surviving, thanks :-) Prednisone has helped Sam’s asthma thank god. Thanks for asking! <3"
+(asthma,Prednisone,3)
+
+"Prednisone is a great drug! No asthma last night! Shame it was only a one of solution for her."
+(asthma,prednisone,3)
+
+"Prednisone is a steroid used for inflammation. In my case it helps with my asthma rather than pain. It makes breathing easier"
+(asthma,prednisone,3)
+
+"So the doc gave me prednisone for my caugh/asthma. Good news cough is getting better-bad news I cannot sleep ugh! # steriodsarebad"
+(asthma,prednisone,3)
+
+"@ KathyErdman2 @ TeamHenryByalik @ Loistroutman Prednisone & my inhalers are helping with allergies & asthma. Thankfully I'm feeling better"
+(asthma,prednisone,3)
+(allergies,prednisone,3)
+
+"Prednisone is the worst medicine ever made # asthma"
+(asthma,prednisone,1)
+
+"I have a beef with # prednisone right now. While it helps me breathe, I'd rather not be up until 3 tonight. # asthma"
+(asthma,prednisone,3)
+
+"On prednisone for my asthma flair up. Can now breathe but my face is flushed and swollen. # asthmaproblems"
+(asthma,prednisone,3)
+
+"@ mrschicken My asthma has gotten really bad the last couple of weeks and I've been on prednisone, which hasn't helped much."
+(asthma,prednisone,2)
+
+"My asthma is so bad today. The prednisone hasn't really helped."
+(asthma,prednisone,2)
+
+"@ bopeep99 My son is taking prednisone for asthma its not really helping him"
+(asthma,prednisone,2)
+
+"Only time I feel like myself is when I get them prednisone n my system my asthma be under control"
+(asthma,prednisone,3)
+
+"Prednisone messed up my sleeping schedule. :( At least I can breathe....I hate it when my asthma is this bad. :|"
+(asthma,prednisone,3)
+
+"So glad my asthma meds are working. Lungs feel brand new :) Too bad this will keep me up all night # prednisone # gettingwell"
+(asthma,prednisone,3)
+
+"Sickly, so happy to be feeling better though! Breathing treatments every four to six hours and prednisone for five days twice a day! # asthma"
+(asthma,prednisone,3)
+
+"@ melwillerth like an emotional basket case. Moods are all over. Being put back on prednisone for asthma hasn't helped. Horrible med! & you?"
+(asthma,prednisone,2)
+
+"@ running_fox It does suck. I'm finishing up a 5 day Prednisone treatment to bring a bad asthma attack under control."
+(asthma,prednisone,3)
+
+"Asthma is under control & I'm down to 3 mg of Prednisone. Back to working out & feeling good!"
+(asthma,prednisone,3)
+
+"@ OmniAim Yeah I get on prednisone about twice a year for three day intervals so I can kick out the asthma while I have bronchitis."
+(asthma,prednisone,3)
+(bronchitis,null,0)
+
+"@ ElaineOrrMorgan Prednisone is a wonder drug. It seems to settle down anything. I've take it for allergies, asthma, RArth."
+(asthma,prednisone,3)
+(allergies,prednisone,3)
+(RArth,prednisone,3)
+
+"@ FroggyPrinceMom Great. But as going down on prednisone asthma getting worse. Need to use nebulizer now. Catch up later."
+(asthma,prednisone,1)
+
+"this Qvar makes it feel like i don't even have asthma"
+(asthma,Qvar,3)
+
+"@ xFoodAllrgyhelp @ homawoodrum (((HUGS))) My daughter has asthma...Qvar is working really well, though! Wonder if it's an option...daily med"
+(asthma,Qvar,3)
+
+"@ yoshaza sounds about right.i use blue,qvar-2 puffs twice a day-green one2puffs twice a day too.makes my asthma much better"
+(asthma,Qvar,3)
+
+"I'm taking # qvar for asthma and i swear it does nothing"
+(asthma,Qvar,2)
+
+"I am so much better. I went to the asthma and allergy doctor, and I have eosinophilic bronchitis and severe asthma. He put me on Singulair and Symbicort and two allergy meds. I can breathe again! I am allergic to all the tree pollens, but not ragweed or dogs and cats."
+(asthma,Singulair,3)
+(asthma,Symbicort,3)
+(null,allergy,0)
+(eosinophilic bronchitis,Singulair,3)
+(eosinophilic bronchitis,Symbicort,3)
+
+"I have asthma :( but I started taking a prescription drug called Singulair, and it’s been so much better. Also have to take a reactin as well. I highly recommend for people who hate carrying their puffers around. I love you Jeffree!! You’re an inspiration!"
+(asthma,Singulair,3)
+
+"Mucinex is the shit. It works. Fuck this damn cold. # fuckmucus"
+(cold,mucinex,3)
+
+"Glad this cold is almost out of my body. Epsom salt and humidifier w/ a side of Mucinex is the recipe."
+(cold,mucinex,3)
+
+"Had probably the same thing you're having. Had the cold and a dry cough for a week and a half. Mucinex is a godsend."
+(cold,mucinex,3)
+
+"I mean wtf am I suppose to take for a cold cause this mucinex ain't doing the job"
+(cold,mucinex,2)
+
+"Tried Mucinex- for cold & sinus for first time and loved it. Unlike Nyquil/Dayquil it really opened up my congested head."
+(cold,mucinex,3)
+(cold,Nyquil,2)
+(cold,Dayquil,2)
+(sinus,mucinex,3)
+(sinus,Nyquil,2)
+(sinus,Dayquil,2)
+
+"@ ParisJackson me and you are both sick with a cold. I seen you bought mucinex that shit works wonders."
+(cold,mucinex,3)
+
+"What can I take for a bad cold or sinus? Stuffy nose, earache, sore throat. Mucinex and DayQuil I both tried and aren't doing too much"
+(cold,mucinex,2)
+(cold,DayQuil,2)
+(sinus,mucinex,2)
+(sinus,DayQuil,2)
+
+"I swear I've sneazed 100 times since Friday! So annoying! Doped up on Mucinex so my nose doesn't run like a faucet. # pityparty # sick # cold"
+(cold,mucinex,3)
+
+"Almost 5:30AM and still haven't fallen asleep. Muscle relaxers, Mucinex, NyQuil, and nothing. Eff this cold."
+(cold,Mucinex,2)
+(cold,NyQuil,2)
+(cold,Muscle relaxers,2)
+
+"Alka-Seltzer Cold and Mucinex are what's finally getting me over my flu."
+(flu,mucinex,3)
+(flu,Alka-Seltzer Cold,3)
+
+"Took Mucinex and Dayquill together this morning to combat my death cold. Now I feel like I'm in a dream. Upside: my nose isn't running."
+(cold,mucinex,3)
+(cold,Dayquill,3)
+
+"Take some mucinex, some claritin D and Airborne. It's helped my cold out tremendously this week."
+(cold,mucinex,3)
+(cold,claritin D,3)
+(cold,Airborne,3)
+
+"mucinex day and night for severe cold and flu!! Works great!! Hope you feel better soon!"
+(cold,mucinex day and night,3)
+(flu,mucinex day and night,3)
+
+"Took mucinex, Alka seltzer, Sudafed, and tried a nasal spray and this cold is still kicking my ass"
+(cold,mucinex,2)
+(cold,Alka seltzer,2)
+(cold,Sudafed,2)
+(cold,nasal spray,2)
+
+"Hell yes!!!!. I got through 3 grueling days of my Patient Lift Team job and a cold and Mucinex saved my butt. Highly recommended."
+(cold,mucinex,3)
+
+"Symbicort works excellent, it's an asthma preventative. My insurance doesn't cover it, but my Physician's Assistant used to give me free samples. They're out of them now... I hope you find a solution that works for you."
+(asthma,Symbicort,3)
+
+"Symbicort is the first medicine I've had in my lifetime that has made my asthma manageable. When uninsured, the company gave me discounts."
+(asthma,Symbicort,3)
+
+"@ sureshdr I used to. Since 10 years back asthma meds been upgraded. I'm now on symbicort. A better drug. For both control and emergency."
+(asthma,Symbicort,3)
+
+"On the real, though-I don't like taking medicine, but I take Symbicort daily and it has changed my life for the better. # Asthma"
+(asthma,Symbicort,3)
+
+"Turns out # symbicort was having no effect on me - but the # quivering of my hands which had gone out of control. # asthma"
+(asthma,Symbicort,2)
+
+"The one thing that was supposed to help me is what's ruining my body # symbicort # asthma"
+(asthma,Symbicort,1)
+
+"@ Welshbeard Yes Asthma+cold/chest infection = unmitigated grimness And Symbicort doesn't help either Good Luck getting it dealt with b4 Xmas"
+(asthma,Symbicort,2)
+(chest infection,Symbicort,2)
+(cold,Symbicort,2)
+
+"@Moos_TheMonk salamat. Hope it gets resolved. Try Symbicort, it really helped my asthma."
+(asthma,Symbicort,3)
+
+"@ Tentsmuir asthma much better now. Back on Symbicort. Feeling my lung capacity getting stronger. Thank you for your tweet!"
+(asthma,Symbicort,3)
+
+"I'm having an asthma review tomorrow. It'll be like Late Review. "Symbicort? Made my hands like the Elephant Man. It didn't work for me.""
+(asthma,Symbicort,2)
+
+"@ Blueeyez1071 as does he.... when he does use it properly.. his Asthma is great... & he is so active... Symbicort works well for him"
+(asthma,Symbicort,3)
+
+"@ Threedot - as a fellow asthma sufferer, I really feel you. I'm on Symbicort. It keeps the asthma in check so I don't have attacks anymore."
+(asthma,Symbicort,3)
+
+"Not using Byetta anymore for diabetess. My body isnt used to it now & it makes my sugar crash! Last nite was awful, almost had 2 go 2 hosp"
+(diabetess,Byetta,1)
+
+"@ OldFashRecipes Thanks Mary :) I'm trying. Just feel awful from the diabetess coupled with the new Byetta shots making me nauseous. Hugs xo"
+(diabetess,Byetta,1)
+
+"Going to spend some time with the hubby and granddaughter today. My daughter has a Dr. appt. for her # diabetess issue and # Byetta has helped!"
+(diabetess,Byetta,3)
+
+"Starting back on byetta tomorrow, thank god. That stuff does wonders # diabetess"
+(diabetes,Byetta,3)
+
+"omg I'm so sick....I hate Glucophage! WHAAAA! # diabetess"
+(diabetess,Glucophage,1)
+
+"@ tomwild1995 was diagnosed with Diabetess 4 days ago. Been avoiding sugars and carbs. Taking metformin. Still exercising 2 times a week. Taking 10k vitamin D a day since dr. says im very deficient. Feeling the best I have felt in years."
+(diabetess,metformin,3)
+(diabetess,vitamin D,3)
+
+"Metformin is an amazing drug for my diabetess, but remember exercise/weight loss is amazing too! # advdm"
+(diabetess,metformin,3)
+
+"cigar ? I don't smoke. I have type 2 diabetess uncontrolled I understand and glipizide and metformin is not working. lol"
+(type 2 diabetess,metformin,2)
+(type 2 diabetess,glipizide,2)
+
+"I will give praise to Metformin for what it has done. I told my mom to go on it for her diabetess 2 & it's helped reduce her # s."
+(diabetess,metformin,3)
+
+"my diabetess has gotten worse im on metformin three times a day now"
+(diabetess,metformin,1)
+
+"Going to spend a relatively quiet night, and see what effect the Invokana is having 4 diabetess. Still don't feel good."
+(diabetess,Invokana,2)
+
+"How can I get Invokana cheap while on Medicare? It really helps controlling my Diabetess. # invokana # medicarepartd # janssen"
+(diabetess,Invokana,3)
+
+"70 y/o AA lady with diabetess- sugar not coming down. She is on 4 different drugs:insulin,victoza,metformin,&Invokana,but needs only Insulin!"
+(diabetess,Insulin,3)
+(diabetess,victoza,2)
+(diabetess,metformin,2)
+(diabetess,Invokana,2)
+
+"Gary's on day 5 using Invokana. It doesn't lower the renal threshhold bar from 180 to 160 or even 140, it lowers it to around 80 mg/dl..."
+(diabetess,Invokana,3)
+
+"@ thisisgilbs How's the diabetess,I am on Januvia now which has no side effects and letters my levels really constant."
+(diabetess,Januvia,3)
+
+"This cold sucks! Three days and I don't feel any better. Soup, tea, DayQuil, Mucinex, cough drops = nada"
+(cold,mucinex,2)
+(cold,DayQuil,2)
+
+"Soooooo does Luol Deng still have that cold? I got real sick & took some high priced Mucinex and was good in 4 days.. What's his excuse!?!"
+(cold,mucinex,3)
+
+"That mucinex dm got my cold n.check... thank God cus I was going thro it"
+(cold,mucinex dm,3)
+
+"All that cold has left my lungs, thank you mucinex DM, your a life saver"
+(cold,mucinex DM,3)
+
+"@ robinbann I hadn't had a big issue w/a cold until now. Mucinex might be next. I've been using Alka Seltzer Cold but it's not cutting it."
+(cold,Alka Seltzer Cold,2)
+(null,Mucinex,0)
+
+"I need some cold medicine. That mucinex ain't cutting it. # sicktweet # cold"
+(cold,mucinex,2)
+
+"@MeechySantana take mucinex cold/flu ... I had a cold last week and it really helped"
+(cold,mucinex cold/flu,3)
+
+"@ colbywallace try Mucinex for a cold. It's made my life so much sweeter."
+(cold,Mucinex,3)
+
+"Mucinex >>>>> Sudafed. That Sudafed wasn't doing anything for my cold."
+(cold,Sudafed,2)
+(null,Mucinex,0)
+
+"@bangluhDESH nah if you tryna get better, you need to be on that daytime and Mucinex. Knocked my cold out in a day b"
+(cold,mucinex,3)
+
+"@ Werealldeadends get some mucinex cold and flu. It's not super cheap, but my cold better in a week."
+(cold,mucinex cold and flu,3)
+
+"@DjInfernoLV Happy Easter!!! Mucinex does wonders. I don't have allergies but I am fighting a cold, so I know exactly how u feel lol"
+(cold,mucinex,3)
+(allergies,null,0)
+
+"@ kyddsr I had lingering cough from cold. Pharmacist recommended Claritin + Mucinex super-duper-max time-release pills. Mostly worked."
+(cold,mucinex,3)
+(cold,Claritin,3)
+
+"Cold wont quit, mainly the congestion that's blowing me cuz I can't breathe through my nose. Mucinex is failing me"
+(cold,mucinex,2)
+
+"I love that my cold went from sinus -> chest -> sinus, chest, head, body. MUCINEX Y U NO WORK?"
+(cold,mucinex,1)
+
+"@ ljoywilliams I have a cold and woke up with congestion and no voice. Within 5 minutes after taking Mucinex, the mucus was dissipating."
+(cold,mucinex,3)
+
+"@ _ShaneCahill_ I've got some mucinex dm that legitimately killed my cold, you want? I can make some Jew soup too"
+(cold,mucinex dm,3)
+
+"I've tried Mucinex, Robotussin, and Advil Cold and Sinus for cold. The hot sauce I put all over my breakfast didn't work, either. Blaaaaah MISERABLE."
+(cold,mucinex,2)
+(cold,Robotussin,2)
+(cold,Advil Cold and Sinus,2)
+
+"is Mucinex known to not really work or did my cold double down once I started taking it so it only seems like its not helping?"
+(cold,mucinex,2)
+
+"I've managed to go through a whole bottle of Mucinex & almost two boxes of pills yet I'm still sick. thanks cold & flu season!"
+(cold,mucinex,2)
+(flu,mucinex,2)
+
+"This cold is kicking the crap out of me today...mucinex save me!"
+(cold,mucinex,3)
+
+"@ txbluntman I've been sick all winter!!! Just getting over a cold right now. Get mucinex! Works badass! pic.twitter.com/Oh3QNy7oKW"
+(cold,mucinex,3)
+
+"Took mucinex for severe cold and flu...this shit did not work! What.the.faccccck"
+(cold,mucinex,2)
+(flu,mucinex,2)
+
+"This Mucinex is helping my cold but its also drying up my insides. So dehydrated!"
+(cold,mucinex,3)
+
+"I couldn't survive this cold without my Neti pot, Mucinex and fleece from head to toe!"
+(cold,mucinex,3)
+
+"Mucinex Dm& tussin Dm max, is working so good.bringing all this cold out of me"
+(cold,mucinex dm,3)
+(cold,tussin dm max,3)
+
+"@ InspiredRD # 365thanks Mucinex D! Not too exciting but it has certainly has helped with this cold."
+(cold,Mucinex D,3)
+
+"Been drinking Yogi cold season tea. That and a combination of zinc and mucinex and I feel a whole lot better today."
+(cold,mucinex,3)
+(cold,zinc,3)
+
+"Thank goodness this cold is gone s/o to mucinex"
+(cold,mucinex,3)
+
+"Ambien totally not helping with my insomnia tonight. Yay."
+(insomnia,Ambien,2)
+
+"All of the time. My insomnia is insane. Ambien and Benadryl won’t knock me out some nights. I hate it!"
+(insomnia,Ambien,2)
+(insomnia,Benadryl,2)
+
+"I had insomnia last year, some nights couldn't sleep at all, ambien helped me a lot. Your doctor might be hesitant to prescribe it cause it's really habit forming but it did miracles for me"
+(insomnia,Ambien,3)
+
+"It's about time for my after # Livepd Ambien so I can sleep like other humans. # insomnia"
+(insomnia,Ambien,3)
+
+"Took an ambien and still cant sleep. Its 4am im more awake now than i was all fuckin day. Fuck you insomnia. Of course i have to be up early too for docs appointment."
+(insomnia,Ambien,2)
+
+"Insomnia is in overdrive tonight broskis ): I am jaw clenching, in pain, ambien isn’t working, so tired. Need a solution ): I’m sad if I can’t sleep I am fucking so irritated"
+(insomnia,Ambien,2)
+
+"Finally back at home from 5-day RD's conference in Manila! Husband has mild # diarrhea...lots of water & # Lomotil, seems to work!"
+(diarrhea,Lomotil,3)
+
+"Still having diarrhea!!!! charcoal n lomotil does NOT work on me!"
+(diarrhea,Lomotil,2)
+(diarrhea,charcoal,2)
+
+"Had hardcore insomnia since I was 15. Sonata works but it's no cure. Regular meditation + melatonin finally made scheduled sleep possible."
+(insomnia,Sonata,3)
+(insomnia,melatonin,3)
+
+"I have terrible insomnia, my Doc prescribed me Ambien. It made me feel terrible the next day. I've been making my own tinctures for about a year now... a 1/2 dropper with water ever night, sleep like a baby, and feel great the next morning. I wish it was legal in my state!!"
+(insomnia,Ambien,1)
+(insomnia,tinctures,3)
+
+"It's hell, insomnia makes everything else 100x worse! I'm glad Ambien works for you!!!"
+(insomnia,Ambien,3)
+
+"Man insomnia sucks some times, and no, ambien doesn't help, I guess I drove to the store & back once on it and don't remember doing it"
+(insomnia,Ambien,2)
+
+"Eight years of Ambien cured my insomnia. # askmehow"
+(insomnia,Ambien,3)
+
+"My insomnia is at the worst it's ever been for the last 3 weeks. Nothing, not even my beloved Ambien is helping."
+(insomnia,Ambien,2)
+
+"I have such bad insomnia that freaking ambien doesn't work."
+(insomnia,ambien,2)
+
+"And I can't sleep so Fuck insomnia and ambien for not working. My mind is going 1000 mph Fuck Fuck Fuck"
+(insomnia,ambien,2)
+
+"@ Chico_Mills guilty of insomnia... And Ambien don't work... Smh So now its like 4hrs at the most. All Bad!"
+(insomnia,Ambien,2)
+
+"In other news, I took an ambien like 4 hours ago and it does nothing! My insomnia is too strong for you, tiny pill!"
+(insomnia,mbien,2)
+
+"Goodnight... # GH and "possibly' bed early.two nights of insomnia.. Ambien take me to dreamland..zzzzzzzz"
+(insomnia,Ambien,3)
+
+"@ alexsteacy @ darkmorford Melatonin is pretty safe compared to something like Ambien. It helps with my insomnia quite a bit."
+(insomnia,Melatonin,3)
+(null,Ambien,0)
+
+"@ FibroShilo Ambien helps but can't take it all the time. Overall, insomnia for me has not been as bad as it used to be."
+(insomnia,Ambien,3)
+
+"Exciting news... Apparently, Ambien doesn't work in me or on me # science # insomnia"
+(insomnia,Ambien,2)
+
+"1 kpin 1/2 an ambien and I'm wide awake. OK INSOMNIA I GET IT YOU WIN AGAIN"
+(INSOMNIA,ambien,2)
+
+"The ambien I took earlier has done nothing for my insomnia."
+(insomnia,ambien,2)
+
+"What's really sad was instead of helping # insomnia the Ambien made it worse. Now I had 2issues 2deal w/. Lack of sleep &addiction!"
+(insomnia,ambien,1)
+
+"@ dssmith588 I take like four ambien a night and still don't sleep for shit. Insomnia will be the death of me."
+(insomnia,ambien,2)
+
+"Insomnia really sucks I took an Ambien hours ago and I'm still awake now"
+(Insomnia,Ambien,2)
+
+"Last night I took Ambien & drank wine..WOW! I slept all night & had a crazy weird fucked up dream. Thanks for the prescription Mom # Insomnia"
+(Insomnia,Ambien,3)
+
+"Nyquil. Can't sleep. Ambien. Can't sleep. Homeopathic insomnia crap. Can't sleep."
+(insomnia,Nyquil,2)
+(insomnia,Ambien,2)
+
+""Hello insomnia, my old friend. / You have come for me again. / I really wish I was sleeping. / Ambien failed, now I'm not drifting.""
+(insomnia,Ambien,2)
+
+"@ mariastephanos I know you dislike scripts but i take a 5mg ambien which really does work..I have the same insomnia issues"
+(insomnia,ambien,3)
+
+"3 hours of sleep last night, ambien and Benadryl tonight. I'm still awake. What. The. Fuck. # insomnia # killme"
+(insomnia,ambien,2)
+(insomnia,Benadryl,2)
+
+"Literally hate having insomnia. My fucking ambien doesn't work either. Ugggggfggggh."
+(insomnia,ambien,2)
+
+"Wish I could find a cure for insomnia. It really hates and even ambien doesn't work. # insomnia, # SleeplessCrew # mommies"
+(insomnia,ambien,2)
+
+"I hate insomnia. Even though it really loves me. After 2 ambien, I'm awake and restless."
+(insomnia,ambien,2)
+
+"Took ambien.... Still awake ....insomnia for life"
+(insomnia,ambien,2)
+
+"Another night of # insomnia... An Ambien & 1/2 later and still no sleep"
+(insomnia,Ambien,2)
+
+"Finally uninterrupted sleep! Thank u ambien for kicking my insomnia. No crazy side effects, just sleep!! # refreshed"
+(insomnia,ambien,3)
+
+"i take Ambien every evening because I have insomnia. That's the ONLY way I can sleep."
+(insomnia,Ambien,3)
+
+"Took Ambien a couple of hours ago and still not asleep. Tomorrow could be potentially not pretty. I hate you, # insomnia."
+(insomnia,Ambien,2)
+
+"Ambien and Tramazapan don't have anything on my insomnia"
+(insomnia,Ambien,2)
+(insomnia,Tramazapan,2)
+
+"I have OCD, too. I take Zoloft and that's perfect for OCD. Really helps against my symptoms. The reason I asked about bipolar is because an antidepressant without a mood stabilizer can induce bipolar mania big time."
+(OCD,Zoloft,3)
+(bipolar,null,0)
+
+"They put me on Zoloft years ago for my OCD. Most of my obsessions and compulsions completely vanished. I was lucky. :)"
+(OCD,Zoloft,3)
+
+"Try Zoloft. It was a godsend for me. Rarely ever feel down, ocd issues almost gone, even tempered, just generally feel ok vs before."
+(OCD,Zoloft,3)
+
+"They put my son on Zoloft for his ADHD and OCD n he's been taking it for 6 months n No Difference."
+(OCD,Zoloft,2)
+(ADHD,Zoloft,2)
+
+"me too. Like I'm on the max dose of Zoloft and it honestly helped my depression, especially my ocd SOOOO much."
+(depression,Zoloft,3)
+(ocd,Zoloft,3)
+
+"We tried Zoloft for OCD, didn't help but he gained 50 pounds."
+(OCD,Zoloft,2)
+
+"I was hoping taking my Zoloft earlier would help me with the late night OCD issues but… It’s not"
+(OCD,Zoloft,2)
+
+"@ ____PantheR 100mg Zoloft. headaches for about 2 weeks after I started taking it but helped a lot. helps depression / anxiety / OCD."
+(depression,Zoloft,3)
+(anxiety,Zoloft,3)
+(OCD,Zoloft,3)
+
+"@ Wanyal I took low-dose Zoloft for 18 months, it eliminated my anxiety, OCD, and allowed me to logically process things. I'm off it now >>"
+(anxiety,Zoloft,3)
+(OCD,Zoloft,3)
+
+"my doctor's excuse for not putting me on anything for ocd is "Zoloft works for OCD too:)" but obviously it's not helping it barely helps my"
+(OCD,Zoloft,2)
+
+"im excited to feel alive and i get to keep my zoloft which helps with OCD and anxiety"
+(OCD,Zoloft,3)
+(anxiety,Zoloft,3)
+
+"@ flaka0302 I took Zoloft. Its pretty good for depression. I havent got anything for my anxiety cause the pregnancy but its mixed w/OCD"
+(depression,Zoloft,3)
+(anxiety,null,0)
+(OCD,null,0)
+
+"@Abby_Scuito This Zoloft I just started is making me feel weird. It is calming the OCD, but weird."
+(OCD,Zoloft,3)
+
+"@myEDandme I hated Zoloft but Lexapro has been a wonderful help with my # OCD & anxiety symptoms Been on it for 5 years with no side effects"
+(anxiety,Zoloft,1)
+(OCD,Zoloft,1)
+(anxiety,Lexapro,3)
+(OCD,Lexapro,3)
+
+"I take sertraline every day, and it’s helped me deal with my OCD/anxiety disorder/autism :) # speakout # mentalhealth"
+(OCD,sertraline,3)
+(anxiety disorder,sertraline,3)
+(autism,sertraline,3)
+
+"I take Sertraline. It's really helped with that and my OCD. # PJChat"
+(OCD,Sertraline,3)
+
+"Isn’t Prozac supposed to help with depression too? I don’t get it. I upped the Prozac because my OCD is out of hand, but am even more depressed. pic.twitter.com/U73PrTB9Mn"
+(OCD,null,0)
+(depression,Prozac,1)
+
+"Fluoxetine/Prozac may have very well saved my life. I have OCD and suffered from horrific intrusive thoughts for over a decade, but those went away literally overnight when I started the meds. That was about 5 years ago and my anxiety's much more controllable now."
+(OCD,Prozac,3)
+(anxiety,Prozac,3)
+(OCD,Fluoxetine,3)
+(anxiety,Fluoxetine,3)
+
+"tbh like.... since i've started prozac, i've noticed that my depression is muuuch better and my OCD too, but my anxieties are similar to how they were back in high school???? NG"
+(OCD,Prozac,3)
+(depression,Prozac,3)
+(anxieties,Prozac,2)
+
+"It's a shame that I think tussionex isn't working for this cold I'm getting"
+(cold,tussionex,2)
+
+"This Claritin ain’t cutting today and it’s cold outside but I’m still out here"
+(cold,Claritin,2)
+
+"Also, got a cold? Take a Claritin, apparently. I can breathe again! Histamines! Sinuses! It all totally makes sense actually. pic.twitter.com/mUFTlG2NK8"
+(cold,Claritin,3)
+
+"Try Zinc? Cold Ezee lozenges have been my savor many times this year. That and Claritin for allergies."
+(allergies,Zinc,3)
+(allergies,Claritin,3)
+(allergies,Cold Ezee lozenges,3)
+
+"claritin and Tylenol sever allergy/sinus works for me. when I have a real cold the Tylenol blue liquid is the only things that work. the rest it's like my body fights it so it don't work."
+(cold,Tylenol blue liquid,3)
+(null,claritin,0)
+(null,Tylenol sever allergy/sinus,0)
+
+"Claritin D, even if it’s not allergies. Shit will erase any cold symptom in 20 mins"
+(cold,Claritin D,3)
+(allergies,null,0)
+~~~"# Claritin didn't work onto the cold"
+(cold,Claritin,2)
+~~~"About 3 hours after taking 1 claritin and Alka seltzer cold & flu later... STILL SNEEZING # cold"
+(cold,Claritin,2)
+(cold,Alka seltzer cold & flu,2)
+
+"I thought I had a really awful cold that no medicine could help. But it turns out I now get allergies and Claritin has saved my life"
+(allergies,Claritin,3)
+
+"Accidently took both Claritin and NyQuil to fight cold. Not recommended. I thought lava was coming out of my nose."
+(cold,Claritin,2)
+(cold,NyQuil,2)
+~~~"Zyrtec is a good one,bad luck that it failed on ur cold.If Panadol Cold&Flu in the proper dose failed,try Claritin, it's great"
+(cold,Zyrtec,2)
+(null,Panadol Cold&Flu,0)
+(null,Claritin,0)
+~~~"claritin never worked too well for my cold. zyrtec, aleve cold and sinus or sudafed are better (*^^)v"
+(cold,Claritin,2)
+(cold,zyrtec,3)
+(cold,aleve cold and sinus,3)
+(cold,sudafed,3)
+
+"I finally figured out the my "cold" was really allergies. And Claritin does wonderful things."
+(allergies,Claritin,3)
+(cold,null,0)
+
+"@ MarzBarGaming hey Alex. I just got over the same cold, it sucks. Airborne and Claritin worked like a champ."
+(cold,Airborne,3)
+(cold,Claritin,3)
+
+"How is everyone? I have a # cold but so far the # bubblegum flavored # chewable # Claritin is working well. Also, # Gatorade # glaciercherry"
+(cold,Claritin,3)
+
+"I'm starting to think my Sinus/Cold can't be cured cause nothing is Working!!!! I've tried Claritin AND Alka-seltzer PLUS""
+(cold,Claritin,2)
+(cold,Alka-seltzer,2)
+(Sinus,Claritin,2)
+(Sinus,Alka-seltzer,2)
+
+"you too! Doing down w/a cold that I don't have time for! Claritin is not helping."
+(cold,Claritin,2)
+~~~"allergies + cold. Have taken meds on top of Claritin and am now both miserable AND high."
+(cold,Claritin,2)
+(allergies,Claritin,2)
+
+"@ faithfreek @ katebilo ty you too! Been using Claritin.. When its cold I do feel much better!!!"
+(cold,Claritin,3)
+
+"I've done everything to get ahead of this cold and it's working too lol like hot tea w honey, Benadryl, Claritin, warm water w salt, etc etc"
+(cold,Benadryl,3)
+(cold,Claritin,3)
+
+":) @ ericjgruber We've seen an allergist. Diagnosed asthma & allergies. Zyrtec, claritin, inhaler, cold meds ALL not working now. grrrr"
+(asthma,Zyrtec,2)
+(asthma,claritin,2)
+(allergies,Zyrtec,2)
+(allergies,claritin,2)
+
+"I totes have been thinking of you the WHOLE time! Also... sniffly. Partly from cold. Partly cause Claritin not kicked in @ KatieKustura"
+(cold,claritin,2)
+
+"Waking up with allergies is like waking up with a cold every morning ! Claritin & Flonase aren't doing their dam job !"
+(allergies,claritin,2)
+(allergies,Flonase,2)
+(cold,null,0)
+
+"Woke up this morning pretty sure I was getting a terrible cold/ear infection. Turns out it's just allergies. Claritin & Flonase = AWESOME!!"
+(allergies,claritin,3)
+(allergies,Flonase,3)
+
+"zyrtec does jack shit for me.. you need to use a 4 hour med too until you can get teh shit under control.. something with a decongestant in it.. Only thing that works for me when it gets that bad is adding advil cold & sinus to the mix.. the kind you gotta get behind the counter # cold"
+(cold,Zyrtec,2)
+(cold,decongestant,2)
+(cold,advil cold & sinus,3)
+
+"Not sure if allergies or cold. I’ve been dealing with allergies for all my life. Zyrtec still works wonders for me"
+(allergies,Zyrtec,3)
+(cold,null,0)
+
+"severe cold Zyrtec works well, one a day forever it seems,I'm on wk 3...a couple Hot Buttered Rums helps with needed rest!"
+(cold,Zyrtec,3)
+
+"Does anyone want some free CVS brand Zyrtec? I've never had allergies before but somehow thought it would help my cold it really didn't"
+(cold,Zyrtec,2)
+(allergies,null,0)
+
+"Why won't this cold go away? I've taken Zyrtec and drank lots of water. I was a snotty mess in class today D:"
+(cold,Zyrtec,2)
+
+"Zyrtec is great for my allergies but really makes me drowsy. Slept hard last night but woke up looking like a zombie. Cold house doesnt help"
+(allergies,Zyrtec,3)
+
+"Aha my Zyrtec worked. Goodbye cold here comes murder cough"
+(cold,Zyrtec,3)
+
+"Zyrtec really be having me knocked the fuck out but it's getting rid of this cold so I ain't even mad"
+(cold,Zyrtec,3)
+
+"Switching off Celexa slowly. Going to be switching to Prozac by April. 30mg a day of Celexa didn't really get rid of random depression. Hope 20mg of Prozac does :)"
+(depression,Celexa,2)
+(null,Prozac,0)
+
+"+ in highschool now that i think about it. And the depression.. yeah my celexa kinda helps with it, but its definitely still there. Theres still many times i catch myself thinking super dark, but its not nearly as bad."
+(depression,Celexa,3)
+
+"Yeah, I was on celexa, and it either gave me super fucked up, vivid dreams, or it made me sleep so hard I was practically in a coma Yay depression?"
+(depression,Celexa,1)
+
+"since it's only been a week maybe your Dr can switch you to Celexa (citalopram). it immediately murdered my anxiety and has been managing my depression for a few years now with no side effects whatsoever. it's the "calmest" med i've ever taken."
+(depression,Celexa,3)
+(anxiety,Celexa,3)
+(depression,citalopram,3)
+(anxiety,citalopram,3)
+
+"@ KendallRaeOnYT I just watched your latest podcast and you were talking about being on the wrong medication. You should talk to your doctor about Celexa/Citalopram. It helps anxiety so much as well as depression. I’ve been on it for a while now and it has helped me so much."
+(depression,Celexa,3)
+(depression,Citalopram,3)
+(anxiety,Celexa,3)
+(anxiety,Citalopram,3)
+
+"# Clexa, a ship that means so much to so many people who have been thrown back into depression and anxiety after 307 and may not be able to enjoy this New Year's Eve the way they would have without the use of non-sensical tropes and the cruel queerbaiting done for ratings! pic.twitter.com/maUa4xqljY"
+(depression,Celexa,3)
+(anxiety,Celexa,3)
+
+"i take Celexa for my depression and it helps with my social anxiety"
+(depression,Celexa,3)
+(anxiety,Celexa,3)
+
+"My first time I had low dose prozac for depression and I responded well to that. But my second time I had a different prescribing doc and she put me on: lamictal (mood stabilizer), prazosin (nightmares), cymbalta (anxiety/depression) and it was a nightmare."
+(depression,prozac,3)
+(depression,lamictal,1)
+(depression,prazosin,1)
+(depression,cymbalta,1)
+(anxiety,null,0)
+
+"When I first got on Cymbalta it was like turning on a light in a dark room. I had been so depressed for so long I had forgotten what it could feel like without it. It helped me want to live. Now my depression isn't as severe but I stay on it it keeps my mood from dipping too low."
+(depression,cymbalta,3)
+
+"Yuuuup. I'm glad to hear some of your meds have helped take the edge off the unpleasant reactions - I take Cymbalta for mild depression and have found that's made things more bearable noise-wise. Perhaps your shrink has contacts who know more about misophonia specifically?"
+(depression,cymbalta,3)
+
+"Depression test score. >25 is severe. I'm taking cymbalta now and I feel way better."
+(depression,cymbalta,3)
+
+"Most people turning to opioids, do so to self-treat depression and chronic pain. Ask your doctor about alternative pain and depression killers that are not addictive, such as Cymbalta (Duloxetine) which treats both! I take Cymbalta and it’s great for chronic pain."
+(chronic pain,cymbalta,3)
+(depression,null,0)
+(null,Duloxetine,0)
+(null,opioids,0)
+
+"Depression hurts. And Cymbalta can't help because it fucking sucks don't ever take that shit."
+(depression,cymbalta,1)
+
+"I have Lupus and fibromyalgia. After trying a few meds, I was put on Lycia which helped my Fibromyalgia pain. My pain consultant later added Cymbalta for depression and the combo worked even better. Just climbing out of pit of despair when Insurance co. told me I had to choose"
+(depression,cymbalta,3)
+(Fibromyalgia,Lycia,3)
+(lupus,null,0)
+
+"Oh xanax and cymbalta helped me with my anxiety and depression but this bipolar a whole other ball game"
+(anxiety,cymbalta,3)
+(anxiety,xanax,3)
+(depression,cymbalta,3)
+(depression,xanax,3)
+(bipolar,null,0)
+
+"On # Cymbalta the past 3 months and feel it's starting to work. If you have depression, talk to your doc. It helps # WorldMentalHealthDaypic.twitter.com/nsDnvv5uX3"
+(depression,cymbalta,3)
+
+"I used to get that. Was diagnosed with major depression in remission, got a prescription to cymbalta. Helped a lot."
+(depression,cymbalta,3)
+
+"When depression hits...90% of the time Cymbalta cannot help. Fuck you Cymbalta"
+(depression,cymbalta,2)
+
+"Most of them caused worse depression.. The only one that worked almost cleaned out my bank account (Cymbalta).. SO expensive."
+(depression,cymbalta,3)
+
+"Really happy with cymbalta for various reasons I take it, I seem to have a lot less migraines, less depression, less pain, all good"
+(depression,cymbalta,3)
+(migraines,cymbalta,3)
+
+"I'm on cymbalta which helps with my anxiety & depression. I usually can't sleep but I take 'midnite' a small chewable tablet and it helps"
+(depression,cymbalta,3)
+(anxiety,cymbalta,3)
+(null,midnite,0)
+
+"One of my best friends uses Cymbalta for depression and it helped with her chronic pain as well. I hope it helps you!"
+(depression,cymbalta,3)
+(chronic pain,cymbalta,3)
+
+"But... depression. Let me tell you. Ain't no heaux. Thank God for Obamacare... finally got my cymbalta refilled and it's helping. A LOT"
+(depression,cymbalta,3)
+
+"Today was already off to a rough start. And then my Spotify played Awake. Depression hurts and Cymbalta can't help me. pic.twitter.com/fJ3x8qm5Cp"
+(depression,cymbalta,2)
+
+"I had great success for pain control for 2 yrs on cymbalta. No help for anxiety/depression though."
+(depression,cymbalta,2)
+(anxiety,cymbalta,2)
+
+"I used Cymbalta for fibro pain. Worked well for pain. Did nothing for anxiety/depression though."
+(fibro pain,Cymbalta,3)
+(depression,Cymbalta,2)
+(anxiety,Cymbalta,2)
+
+"Whatever you do DO NOT USE EFFEXOR. It made me INSANE and horribly sick and i’ve heard the same from others. Prozac helped for a while but still upset my stomach. Wellbutrin has helped the most so far with anxiety and depression."
+(depression,EFFEXOR,1)
+(anxiety,EFFEXOR,1)
+(depression,Prozac,3)
+(anxiety,Prozac,3)
+(anxiety,Wellbutrin,3)
+(depression,Wellbutrin,3)
+
+"It's amazing how this fellow without any sort of medical degree seems to know exactly what our brains need to function. I'm not a puddle of anxiety and depression because Effexor helps my brain to function better."
+(anxiety,Effexor,3)
+(depression,Effexor,3)
+
+"I’m on Effexor. I get withdrawal symptoms if I miss it by half a day. It’s horrendous. The lowest dose is 75mg. Going from 75 to 0 causes violent headache, shakes, vomiting, clamminess, insomnia, etc. But it’s the only A-D that has kept me out of the depths of depression."
+(depression,Effexor,3)
+
+"On that note, I wish it showed a little better that no two people experience depression alike. And Zoloft didn’t work for me, but Effexor has been on point."
+(depression,Effexor,3)
+(depression,Zoloft,2)
+
+"Depression absolutely sucks. Have had it off & on since I was 15 (now 48). I take Effexor...but the sadness is always there.:/"
+(Depression,Effexor,2)
+
+"If you have anxiety/depression, do NOT be afraid or feel bad for taking medication. I take Effexor, which I call my “happy pills”, and they have truly made me functional again. You’re not any lesser of a person or taking a loss by being medicated!"
+(depression,Effexor,3)
+(anxiety,Effexor,3)
+
+"My nurse friend said 10mg should be the max. That is actually what I take for my insomnia every night, along with Benadryl and a Xanax. (It's the only way I actually get sleep.)"
+(insomnia,Benadryl,3)
+(insomnia,Xanax,3)
+
+"Xanax, small dose at the start of insomnia. That's what I use, it works."
+(insomnia, Xanax,3)
+
+"Insomnia is being extra brutal to me tonight. Xanax isn’t doing anything either. Too late to smoke. *sigh* I need a late night pal in my life. # whysodepressed"
+(Insomnia,Xanax,2)
+
+"i have been laying in bed since 7 pm, have taken an entire ambien and half a xanax and i can not fall asleep. talk about fucking insomnia?!"
+(insomnia,xanax,2)
+(insomnia,ambien,2)
+
+"I have Wellbutrin for depression. Wellbutrin makes my anxiety worse and gave me insomnia. Now I have Xanax to deal with that."
+(anxiety,Wellbutrin,1)
+
+"I have tremors & insomnia. The only drug that has ever worked was Xanax. My doctor refuses to prescribe it. Is there another drug I could take or ask for? Otherwise, when it gets bad, I self med w/alcohol. Not good."
+(insomnia,Xanax,3)
+(tremors,Xanax,3)
+
+"I took Xanax last night so I could sleep and stop some insomnia"
+(insomnia,Xanax,3)
+
+"Xanax doesn't make me sleepy anymore. Hooray for insomnia."
+(insomnia,Xanax,2)
+
+"fucking insomnia man - just had to drink some nyquil because I'm STILL awake after taking xanax, smoking a bowl, AND drinking wine"
+(insomnia,xanax,2)
+(null,nyquil,0)
+
+"Laying in bed with major insomnia, a half of Xanax later and I'm still just tossing & turning! What's the best insomnia cure?"
+(insomnia,Xanax,2)
+
+"Xanax isn't helping my insomnia so I'm making a mess repotting seedlings by the light of a citronella candle that I sleep ordered on eBay."
+(insomnia,Xanax,2)
+
+"@ metalgirl74 I've never had Ambien. My dr put me on Xanax & Valium years ago. Valium is good for insomnia."
+(insomnia,Valium,3)
+(null,Ambien,0)
+(null,Xanax,0)
+
+"@ brittany_keeney i took a half of xanax for my insomnia.... i'm still not asleep."
+(insomnia,xanax,2)
+
+"2nd Xanax in over an hour and I'm still wide awake. I hate insomnia."
+(insomnia,Xanax,2)
+
+"i could take a regular xanax now and that fixes the insomnia but it makes it so fucking hard to get up in the morning"
+(insomnia,xanax,3)
+
+"@ PHILIPGRANGER insomnia .. To much stress .. Sleeping med and Xanax and I'm still wide awake. And tomorrow is my long day"
+(insomnia,Xanax,2)
+
+"@ deadfanclub I don't take it anymore.. Melatonin doesn't work for me.. I have SEVERE insomnia..'I take Xanax & a muscle relaxer..."
+(insomnia,Melatonin,2)
+(null,Xanax,0)
+
