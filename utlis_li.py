@@ -8,9 +8,9 @@ import spacy
 nlp = spacy.load("en_core_web_sm")
 def get_data_info(train_raw, test_raw, data_info, pre_processed):
 
-    word2id, max_sentence_len, max_aspect_len = {}, 0, 0
+    word2id, id2word, max_sentence_len, max_aspect_len = {}, {}, 0, 0
     word2id['<pad>'] = 0
-
+    id2word[0] = '<pad>'
     if pre_processed:
         if not os.path.isfile(data_info):
             raise IOError(ENOENT, 'Not a file', data_info)
@@ -22,6 +22,7 @@ def get_data_info(train_raw, test_raw, data_info, pre_processed):
                     max_aspect_len = int(content[2])
                 else:
                     word2id[content[0]] = int(content[1])    # 词转成id
+                    id2word[int(content[1])] = content[0]
 
     else:
         if not os.path.isfile(train_raw):
@@ -52,7 +53,8 @@ def get_data_info(train_raw, test_raw, data_info, pre_processed):
         word_count = Counter(words).most_common()
         for word, _ in word_count:
             if word not in word2id and ' ' not in word:
-                word2id[word] = len(word2id)
+                id2word[len(word2id)] = word
+                word2id[word] = len(word2id)               
 
         with open(test_raw, 'r', encoding = 'utf-8') as f:
             for line in f:
@@ -73,6 +75,7 @@ def get_data_info(train_raw, test_raw, data_info, pre_processed):
         word_count = Counter(words).most_common()
         for word, _ in word_count:
             if word not in word2id and ' ' not in word:
+                id2word[len(word2id)] = word
                 word2id[word] = len(word2id)
 
         # 写入data_info
@@ -80,9 +83,11 @@ def get_data_info(train_raw, test_raw, data_info, pre_processed):
             f.write('length %s %s\n' % (max_sentence_len, max_aspect_len))
             for key, value in word2id.items():
                 f.write('%s %s\n' % (key, value))
+            for key, value in id2word.items():
+                f.write('%s %s\n' % (key, value))
                 
     print('There are %s words in the dataset, the max length of sentence is %s, and the max length of entity is %s' % (len(word2id), max_sentence_len, max_aspect_len))
-    return word2id, max_sentence_len, max_aspect_len
+    return word2id, id2word, max_sentence_len, max_aspect_len
 
 
 

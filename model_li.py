@@ -14,6 +14,7 @@ class WAM(object):
         self.dropout = config.dropout
         
         self.word2id = config.word2id
+        self.id2word = config.id2word
         self.max_sentence_len = config.max_sentence_len
         self.max_entity_len = config.max_entity_len
         self.word2vec = config.word2vec
@@ -33,7 +34,8 @@ class WAM(object):
 
             self.labels = tf.placeholder(tf.int32, [None, self.n_class])
             self.dropout_keep_prob = tf.placeholder(tf.float32)
-            
+            self.index = tf.placeholder(tf.int32)
+
             inputs = tf.nn.embedding_lookup(self.word2vec, self.sentences)
             inputs = tf.cast(inputs, tf.float32)
             inputs = tf.nn.dropout(inputs, keep_prob=self.dropout_keep_prob)
@@ -179,43 +181,54 @@ class WAM(object):
         self.test_summary_writer = tf.summary.FileWriter(_dir + '/test', self.sess.graph)
     def train(self, data):
         sentences, sentence_lens, sentence_locs_1, sentence_locs_2, entity1, entity2, labels = data
-        print(sentences.shape)
-        print(sentence_lens.shape)
-        print(sentence_locs_1.shape)
-        print(sentence_locs_2.shape)
-        print(entity1.shape)
-        print(entity2.shape)
-        print(labels.shape)
+        pred_result = []
         cost, cnt = 0., 0
         for sample, num in self.get_batch_data(sentences, sentence_lens, sentence_locs_1, sentence_locs_2, entity1, entity2, labels, self.batch_size, True, self.dropout):
-            _, loss, step, summary= self.sess.run([self.optimizer, self.cost, self.global_step, self.train_summary_op], feed_dict=sample)
-            #print("entity_loc_1 "+str(entity_loc_1))
-            #print("entity_loc_2 "+str(entity_loc_2))
-            self.train_summary_writer.add_summary(summary, step)
+            _, loss, step, summary, pred_label, correct_label, sents, index = self.sess.run([self.optimizer, self.cost, self.global_step, self.train_summary_op, self.predict_label, self.labels, self.sentences, self.index], feed_dict=sample)
+            pred_result.append(zip(sents,pred_label,correct_label,index))
             cost += loss * num
             cnt += num
-        _, train_acc = self.test(data)
-        return cost / cnt, train_acc
+        _, train_acc, pred_test = self.test(data)
+        return cost / cnt, train_acc, pred_result
     def test(self, data):
         sentences, sentence_lens, sentence_locs_1, sentence_locs_2, entity1, entity2, labels = data
         cost, acc, cnt = 0., 0, 0
-
+        pred_result = []
         for sample, num in self.get_batch_data(sentences, sentence_lens, sentence_locs_1, sentence_locs_2, entity1, entity2, labels, int(len(sentences) / 2) + 1, False, 1.0):
-            loss, accuracy, step, summary = self.sess.run([self.cost, self.accuracy, self.global_step, self.test_summary_op], feed_dict=sample)
+            loss, accuracy, step, summary, pred_label, correct_label, sents, index = self.sess.run([self.cost, self.accuracy, self.global_step, self.test_summary_op, self.predict_label, self.labels, self.sentences, self.index], feed_dict=sample)
             cost += loss * num
             acc += accuracy
             cnt += num
-
+            pred_result.append(zip(sents,pred_label,correct_label,index))
         self.test_summary_writer.add_summary(summary, step)
-        return cost / cnt, acc / cnt
+        return cost / cnt, acc / cnt, pred_result
     def run(self, train_data, test_data):
         saver = tf.train.Saver(tf.trainable_variables())
+        file_train = open("train_predict.txt","w+",encoding='utf-8')
+        file_test = open("test_predict.txt","w+",encoding='utf-8')
         print('Training ...')
         self.sess.run(tf.global_variables_initializer())
         max_acc, step = 0., -1
         for i in range(self.n_epoch):
-            train_loss, train_acc = self.train(train_data)
-            test_loss, test_acc = self.test(test_data)
+            train_loss, train_acc, pred_train= self.train(train_data)
+            test_loss, test_acc, pred_test = self.test(test_data)
+            file_train.write("epoch "+str(i)+":\n")
+            file_test.write("epoch "+str(i)+":\n")
+            id2word = self.id2word
+            for item in pred_train:
+                for sents,pred_label,correct_label,index in item:
+                    text=""
+                    for word in sents:
+                        text=text+" "+id2word[word]
+                    file_train.write(str(text)+" "+str(pred_label)+" "+str(correct_label)+" "+str(index)+"\n")
+            for item in pred_test:
+                for sents,pred_label,correct_label,index in item:
+                    text=""
+                    for word in sents:
+                        text=text+" "+id2word[word]
+                    file_test.write(str(text)+" "+str(pred_label)+" "+str(correct_label)+" "+str(index)+"\n")
+            #file_train.write(str(pred_train))
+            #file_test.write(str(pred_test))
             if test_acc > max_acc:
                 max_acc = test_acc
                 step = i
@@ -235,5 +248,6 @@ class WAM(object):
                 self.sentence_entity2: entity2[index],
                 self.labels: labels[index],
                 self.dropout_keep_prob: keep_prob,
+                self.index: index,
             }
             yield feed_dict, len(index)
